@@ -1,6 +1,6 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "beae3dcd552ef30b4b939f5099e1a416"
+client_id = "a18912d2c40063c053a334e0dbfdc2ba"
 application_url = "https://example.com"
 embedded = true
 name = "Ship Rules Lite"
